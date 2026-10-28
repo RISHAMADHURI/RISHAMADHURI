@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Risha Madhuri 👋
 
-<!--
-**RISHAMADHURI/RISHAMADHURI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year BCA student at Alliance University, focused on Data Analytics and AI.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+Python • SQL • Power BI • DAX • Streamlit • Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- **RAG Finance Chatbot**: add a one-line description + link
+- **Personal Finance Analyzer Dashboard**: add a one-line description + link
+- **AgriSight (CropWise India)**: add a one-line description + link
+- **AURA-EMS**: campus energy demand forecasting dashboard
+
+## 📫 Connect
+[LinkedIn](paste-your-link) • Email: your-email
